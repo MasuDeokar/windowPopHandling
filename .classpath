@@ -17,5 +17,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Dell/eclipse-workspace/Grid/selenium-server-4.17.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Dell/eclipse-workspace/Jar/testng-7.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/eclipse-workspace/Jar/selenium-devtools-v86-4.0.0-beta-2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
